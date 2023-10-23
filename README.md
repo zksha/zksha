@@ -6,6 +6,6 @@ I'm Yiming Xiong, welcome to my page!
 
 
 ![Yiming's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zksha&layout=compact&hide_border=true&langs_count=10)
-![Static Badge](https://img.shields.io/badge/pandas-python-blue) ![Static Badge](https://img.shields.io/badge/scikit-learn-python-blue) ![Static Badge](https://img.shields.io/badge/pytorch-python-blue) ![Static Badge](https://img.shields.io/badge/tensorflow-python-blue) ![Static Badge](https://img.shields.io/badge/spacy-python-blue) 
+![Static Badge](https://img.shields.io/badge/pandas-python-blue) ![Static Badge](https://img.shields.io/badge/scikit_learn-python-blue) ![Static Badge](https://img.shields.io/badge/pytorch-python-blue) ![Static Badge](https://img.shields.io/badge/tensorflow-python-blue) ![Static Badge](https://img.shields.io/badge/spacy-python-blue) 
 
 
