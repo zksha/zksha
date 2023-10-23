@@ -7,5 +7,5 @@ I'm Yiming Xiong, welcome to my page!
 
 
 ## Things I code with
-![Static Badge](https://img.shields.io/badge/pandas-python-blue) ![Static Badge](https://img.shields.io/badge/scikit_learn-python-blue) ![Static Badge](https://img.shields.io/badge/pytorch-python-blue) ![Static Badge](https://img.shields.io/badge/tensorflow-python-blue) ![Static Badge](https://img.shields.io/badge/spacy-python-blue) ![Static Badge](https://img.shields.io/badge/Java-red) 
+![Static Badge](https://img.shields.io/badge/pandas-python-blue) ![Static Badge](https://img.shields.io/badge/scikit_learn-python-blue) ![Static Badge](https://img.shields.io/badge/pytorch-python-blue) ![Static Badge](https://img.shields.io/badge/tensorflow-python-blue) ![Static Badge](https://img.shields.io/badge/spacy-python-blue) ![Static Badge](https://img.shields.io/badge/java-red) ![Static Badge](https://img.shields.io/badge/SQL-green) 
 
