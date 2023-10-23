@@ -1,4 +1,4 @@
-###💖Hey! Nice to see you!
+# 💖Hey! Nice to see you!
 I'm Yiming Xiong, welcome to my page! 
 - 🌱 I’m currently learning knowledge representation and its enhancement that can be brought to large language models(LLMs).
 - 📫 Contact me by email: yimingx920@gmail.com
